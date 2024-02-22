@@ -1,0 +1,15 @@
+.box{
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: cadetblue;
+  border: 1px solid black;
+  margin: 5px;
+  color: white;
+}
+
+.box.pari{
+  background-color: brown;
+}
